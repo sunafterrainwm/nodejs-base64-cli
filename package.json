@@ -1,7 +1,7 @@
 {
     "name": "nodejs-base64-cli",
-    "version": "1.0.5",
-    "description": "base64 encode/decode methods in cli",
+    "version": "1.0.0",
+    "description": "base64 encode/decode methods for cli",
     "bin": {
         "base64": "./index.js"
     },

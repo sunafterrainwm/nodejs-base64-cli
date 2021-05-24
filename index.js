@@ -2,7 +2,7 @@
 
 const base64 = require("nodejs-base64-converter"),
     program = new(require("commander").Command)("base64")
-    .version("0.0.1")
+    .version("1.0.0")
     .usage("[command|options]")
     .description("encode and decode base64");
 
