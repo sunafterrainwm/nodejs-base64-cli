@@ -1,5 +1,5 @@
 {
-    "name": "@sunny00217/base64-cli",
+    "name": "@sunny00217wm/base64-cli",
     "version": "1.0.0",
     "description": "base64 encode/decode methods for cli",
     "bin": {
