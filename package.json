@@ -1,0 +1,31 @@
+{
+    "name": "nodejs-base64-cli",
+    "version": "1.0.5",
+    "description": "base64 encode/decode methods in cli",
+    "bin": {
+        "base64": "./index.js"
+    },
+    "scripts": {
+        "test": "node test/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sunny00217wm/nodejs-base64-cli"
+    },
+    "keywords": [
+        "base64",
+        "base64 cli",
+        "base64-encoding",
+        "base64-decoding"
+    ],
+    "author": "sunny00217wm",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sunny00217wm/nodejs-base64-cli/issues"
+    },
+    "homepage": "https://github.com/sunny00217wm/nodejs-base64-cli#readme",
+    "dependencies": {
+        "commander": "^7.2.0",
+        "nodejs-base64-converter": "^1.0.5"
+    }
+}
